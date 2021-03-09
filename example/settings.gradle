@@ -1,8 +1,6 @@
-include ':myandroidlibrary'
 include ':lib-main'
 include ':lib-java'
 include ':lib-aar'
 include ':lib-aar2'
 include ':lib-aar-local'
 include ':app'
-include ':lib-tigermei'

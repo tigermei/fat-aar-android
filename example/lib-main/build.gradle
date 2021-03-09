@@ -81,8 +81,6 @@ dependencies {
     embed project(':lib-aar')
     // aar dependency
     embed project(':lib-aar2')
-
-    embed project(':lib-tigermei')
     // local full aar dependency, just build in flavor1
     flavor1Embed project(':lib-aar-local')
     // local full aar dependency, just build in debug
